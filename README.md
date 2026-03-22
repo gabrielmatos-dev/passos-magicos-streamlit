@@ -22,5 +22,6 @@ Python, Scikit-learn, Streamlit, Pandas, Plotly
 
 ## Integrantes
 
-- Nome 1
-- Nome 2
+- Gabriel Matos
+- Gabriel Antonio Minchuerri
+- Ana Beatriz Rocha
